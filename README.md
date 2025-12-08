@@ -1,35 +1,64 @@
 <div align="center">
 
-## 🧙 **Kauã Gabriel — Mago do Código**
+# 🌐 Kauã Gabriel
+**Designer Visual e Desenvolvedor de Jogos | Interfaces, Experiências Digitais e Web**
 
-🌍 Explorador do Reino GitHub  
-🗡 Evoluindo habilidades e derrotando bugs diariamente  
-📅 Desde 2024 — A Jornada Continua...
+Portfólio focado em desenvolvimento de jogos, criação visual e interfaces digitais.  
+Transformo ideias em visual, interação e produto final com clareza, usabilidade e estética.
 
----
-
-### 📊 Estatísticas do Personagem
-<a href="https://github.com/kaua-gabriel">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kaua-gabriel&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaua-gabriel&layout=compact&theme=tokyonight&hide_border=true"/>
-</a>
 
 ---
 
-### 🧪 XP acumulado em batalha
-| Conquistas | Status |
-|---|---|
-| ⭐ Stars | <img src="https://img.shields.io/github/stars/kaua-gabriel?style=for-the-badge&color=yellow"/> |
-| 🍴 Forks | <img src="https://img.shields.io/github/forks/kaua-gabriel?style=for-the-badge&color=brightgreen"/> |
-| 📦 Repositórios Públicos | <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/kaua-gabriel&query=%24.public_repos&style=for-the-badge&label=reposit%C3%B3rios&color=blue"/> |
+## 🔧 Habilidades Técnicas
+
+### Desenvolvimento
+<img src="https://skillicons.dev/icons?i=html,css,js,cs,unity,git,github,vscode&theme=light" width="420"/>
+
+### Design / Arte Digital
+🎨 Figma • Adobe Illustrator • Photoshop  
+🖥 Arte Digital • Modelagem Maya • Criação de Personagens e Ambientes  
+📷 Fotografia • Composição e Estética Visual
 
 ---
 
-### 🧭 Caminho do Feiticeiro
-📌 Últimos feitiços lançados (commits)  
-🔧 Aprimoramento de habilidades  
-🐉 Bugs derrotados  
+## 📁 Projetos em Destaque
 
-> *"Feitiços compilam, bugs evaporam."*
+| Projeto | Tipo | Acesso |
+|---|---|---|
+| Sistema Solar Gamificado | Jogo Web Educativo | https://kaua-gabriel.github.io/Sistema-Solar |
+| Jogo da Memória | Game Interativo | https://kaua-gabriel.github.io/jogo-da-mem-ria/ |
+| Desafio 1–100 | Web Game (Lógica) | https://kaua-gabriel.github.io/Jogo-De-Adivinhar |
+
+---
+
+## 🎨 Portfólio Visual / Artes
+
+Criação de personagens, cenários e conceitos para jogos.  
+Inclui modelagem, pintura digital e estudos de luz/forma.
+
+📷 Artworks disponíveis em portfólio visual (site):
+🔗 https://kaua-gabriel.github.io/
+
+> *Foco em narrativa visual, identidade estética e direção criativa.*
+
+---
+
+## 🧩 Sobre Mim
+
+- Estudante de **Jogos Digitais**
+- Desenvolvimento com **Unity + C#** e Web com **HTML/CSS/JS**
+- Experiência com pipeline visual completo → rascunho → arte final → implementação
+- Interesse em UI/UX, interatividade e projetos autorais
+- Evolução contínua com estudos e construção de jogos experimentais
+
+---
+
+## 📬 Contato
+
+📩 E-mail → **gkaua4380@gmail.com**  
+📸 Instagram → https://instagram.com/kaa_gab  
+🔗 LinkedIn → https://linkedin.com/in/kaua-gab  
+💻 GitHub → https://github.com/kaua-gabriel  
+📄 Currículo Online → https://kaua-gabriel.github.io/Curriculo_KG/
 
 </div>
