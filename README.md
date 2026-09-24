@@ -1,64 +1,40 @@
-<div align="center">
+<div align="center">🌐 Kauã Gabriel
 
-# 🌐 Kauã Gabriel
-**Designer Visual e Desenvolvedor de Jogos | Interfaces, Experiências Digitais e Web**
+Designer Visual e Desenvolvedor de Jogos
 
-Portfólio focado em desenvolvimento de jogos, criação visual e interfaces digitais.  
-Transformo ideias em visual, interação e produto final com clareza, usabilidade e estética.
-
+Crio jogos, experiências interativas e projetos digitais unindo desenvolvimento, design e arte.
 
 ---
 
-## 🔧 Habilidades Técnicas
+🔧 Tecnologias
 
-### Desenvolvimento
-<img src="https://skillicons.dev/icons?i=html,css,js,cs,unity,git,github,vscode&theme=light" width="420"/>
-
-### Design / Arte Digital
-🎨 Figma • Adobe Illustrator • Photoshop  
-🖥 Arte Digital • Modelagem Maya • Criação de Personagens e Ambientes  
-📷 Fotografia • Composição e Estética Visual
+<img src="https://skillicons.dev/icons?i=html,css,js,cs,unity,git,github,vscode&theme=light" width="420"/>Design e Arte: Figma • Illustrator • Photoshop • Maya • Arte Digital • Fotografia
 
 ---
 
-## 📁 Projetos em Destaque
+🎮 Projetos
 
-| Projeto | Tipo | Acesso |
-|---|---|---|
-| Sistema Solar Gamificado | Jogo Web Educativo | https://kaua-gabriel.github.io/Sistema-Solar |
-| Jogo da Memória | Game Interativo | https://kaua-gabriel.github.io/jogo-da-mem-ria/ |
-| Desafio 1–100 | Web Game (Lógica) | https://kaua-gabriel.github.io/Jogo-De-Adivinhar |
-
----
-
-## 🎨 Portfólio Visual / Artes
-
-Criação de personagens, cenários e conceitos para jogos.  
-Inclui modelagem, pintura digital e estudos de luz/forma.
-
-📷 Artworks disponíveis em portfólio visual (site):
-🔗 https://kaua-gabriel.github.io/
-
-> *Foco em narrativa visual, identidade estética e direção criativa.*
+Projeto| Descrição| Acesso
+Sistema Solar| Jogo web educativo e interativo| "Jogar" (https://kaua-gabriel.github.io/Sistema-Solar/)
+Jogo da Memória| Game web de memória e associação| "Jogar" (https://kaua-gabriel.github.io/jogo-da-mem-ria/)
+Desafio 1–100| Jogo web baseado em lógica e tentativa| "Jogar" (https://kaua-gabriel.github.io/Jogo-De-Adivinhar/)
 
 ---
 
-## 🧩 Sobre Mim
+🎨 Portfólio
 
-- Estudante de **Jogos Digitais**
-- Desenvolvimento com **Unity + C#** e Web com **HTML/CSS/JS**
-- Experiência com pipeline visual completo → rascunho → arte final → implementação
-- Interesse em UI/UX, interatividade e projetos autorais
-- Evolução contínua com estudos e construção de jogos experimentais
+Mais projetos, jogos e trabalhos visuais:
+
+"kaua-gabriel.github.io" (https://kaua-gabriel.github.io/)
 
 ---
 
-## 📬 Contato
+📬 Contato
 
-📩 E-mail → **gkaua4380@gmail.com**  
-📸 Instagram → https://instagram.com/kaa_gab  
-🔗 LinkedIn → https://linkedin.com/in/kaua-gab  
-💻 GitHub → https://github.com/kaua-gabriel  
-📄 Currículo Online → https://kaua-gabriel.github.io/Curriculo_KG/
+📩 E-mail: gkaua4380@gmail.com
+📸 Instagram: "@kaa_gab" (https://instagram.com/kaa_gab)
+🔗 LinkedIn: "linkedin.com/in/kaua-gab" (https://linkedin.com/in/kaua-gab)
+💻 GitHub: "github.com/kaua-gabriel" (https://github.com/kaua-gabriel)
+📄 Currículo: "Currículo Online" (https://kaua-gabriel.github.io/Curriculo_KG/)
 
 </div>
