@@ -38,7 +38,7 @@ Mais projetos, jogos e trabalhos visuais:
 
 <div align="center">
 
-[**kaua-gabriel.github.io**](https://kaua-gabriel.github.io/)
+[**https://kaua-gabriel.github.io/Meu_portfolio/**](https://kaua-gabriel.github.io/)
 
 </div>
 
