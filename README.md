@@ -51,5 +51,5 @@ Mais projetos, jogos e trabalhos visuais:
 📸 **Instagram:** [@kaa_gab](https://instagram.com/kaa_gab)
 
 🔗 **LinkedIn:** [linkedin.com/in/kaua-gab](https://linkedin.com/in/kaua-gab)
-2
+
 📄 **Currículo:** [Currículo Online](https://kaua-gabriel.github.io/Curriculo_KG/)
